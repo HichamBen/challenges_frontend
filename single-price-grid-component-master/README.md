@@ -12,7 +12,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [solution URL here](https://hichamben.github.io/single-price-grid/)
+- [Live Site URL](https://hichamben.github.io/challenges_frontend/single-price-grid-component-master/)
 
 
 ### Built with

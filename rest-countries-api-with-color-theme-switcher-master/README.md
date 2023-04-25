@@ -10,7 +10,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ### Links
 
-- Solution URL: (https://safe-reaches-20658.herokuapp.com/)
+- [Solution URL](https://my-rest-countries-api-app.herokuapp.com/)
 
 ### Built with
 

@@ -19,7 +19,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 
 ### Links
-- Live Site URL: (https://hichamben.github.io/huddle-landing-page-with-curved-sections-master/)
+- [Live Site URL](https://hichamben.github.io/challenges_frontend/huddle-landing-page-with-curved-sections-master/)
 
 ### Built with
 

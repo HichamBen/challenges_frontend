@@ -10,7 +10,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 ### Links
 
-- Live Site URL:  [solution](https://hichamben.github.io/ping-coming-soon-page-master/)
+- [Live Site URL](https://hichamben.github.io/challenges_frontend/ping-coming-soon-page-master/)
 
 ### Built with
 

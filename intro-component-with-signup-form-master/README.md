@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [solution] (https://hichamben.github.io/intro-component-with-signup-form-master/)
+- [Live Site URL](https://hichamben.github.io/challenges_frontend/intro-component-with-signup-form-master/)
 
 
 ### Built with
